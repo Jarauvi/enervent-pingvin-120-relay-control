@@ -23,7 +23,12 @@ Controlling was not possible with only GPIO, so I needed also relays for this. F
 I wired relays like shown in schematic:
 
 
-Air ventilation unit 
+### Connecting air ventilation unit
+To expose board with external control connectors:
+1. turn off the power and unplug air ventilation unit
+2. open the big screws that close latch to rotary heat recovery unit
+3. detach small maintenance latch on the right out of the way (screw was in the bottom of the door hinge if I remember it correcly)
+4. open the small screws holding the panel that covers the board 
 
 ## Software
 I made a simple MQTT client script to control the relays.
