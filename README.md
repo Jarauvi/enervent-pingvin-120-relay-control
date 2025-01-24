@@ -5,7 +5,7 @@ This made it possible to implement useful functionality, such as
 - boosting the ventilation when humidity around bathroom rises
 - emergency off if smoke alarm is triggered
 
-My device is Enervent Pingvin 120 and it has inputs for controlling the fan speed but not much else, so I needed to interface it with these pins with something smarter. 
+My device is Enervent Pingvin 120 and it has inputs for controlling the fan speed but not much else, so I needed to interface these pins with something smarter. 
 
 ## Hardware
 I've had my old original Raspberry Pi unused in drawer for years. Now it was time to give it purpose again.
