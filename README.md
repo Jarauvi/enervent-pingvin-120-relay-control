@@ -23,9 +23,11 @@ Controlling was not possible with only GPIO, so I needed also relays for this. F
 
 ### Wiring
 Enervent had pinout described in the ECC manual:
+
 ![Enervent pins](https://github.com/Jarauvi/enervent-pingvin-120-relay-control/blob/main/images/enervent_wiring.png)
 
 I wired relays like shown in schematic:
+
 ![Wiring Raspberry and Pingvin](https://github.com/Jarauvi/enervent-pingvin-120-relay-control/blob/main/images/circuit.png)
 
 ### Connecting air ventilation unit
