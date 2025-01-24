@@ -44,3 +44,7 @@ To expose board with external control connectors:
 I made a simple MQTT client script to control the relays.
 There are three topics for the fan speeds (away, normal and boost) and emergency shutdown of air ventilation.
 MQTT client parameters can be configured from enervent.ini
+
+When files are copied to suitable place, systemctl service should be made to execute script when Pi starts.
+
+After ensuring that everything worked as expected, I made Pi read-only to ensure that SD-card would not corrupt at the first power outage. This was a great guide for it: https://medium.com/@andreas.schallwig/how-to-make-your-raspberry-pi-file-system-read-only-raspbian-stretch-80c0f7be7353
