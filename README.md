@@ -36,6 +36,7 @@ To expose board with external control connectors:
 2. open the big screws that close latch to rotary heat recovery unit
 3. detach small maintenance latch on the right out of the way (screw was in the bottom of the door hinge if I remember it correcly)
 4. open the small screws holding the panel that covers the board
+5. wires can be fitted through the existing hole in the panel like shown in the image
 
 ![Opening air ventilation unit](https://github.com/Jarauvi/enervent-pingvin-120-relay-control/blob/main/images/opening_pingvin.png)
 
